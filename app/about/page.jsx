@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const Page = () => {
   return (
-    <div>
+    <div >
       <h1>It`s your second page , name is About</h1>
       <p>
         Go next path{' '}
