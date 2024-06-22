@@ -1,7 +1,7 @@
 const Page = () => {
   return (
     <div>
-      <h2>Your path is /about/team</h2>
+      <h2>Your path is /team</h2>
     </div>
   );
 };
