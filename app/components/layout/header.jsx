@@ -14,7 +14,7 @@ const Header = () => {
             <NavLink href='/about'>About</NavLink>
           </li>
           <li>
-            <NavLink href='/contact'>Contact</NavLink>
+            <NavLink href='/posts/learn-nextjs'>Blog</NavLink>
           </li>
         </ul>
         <ThemeButton />
