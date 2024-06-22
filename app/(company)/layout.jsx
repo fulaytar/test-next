@@ -16,13 +16,10 @@ const CompanyLayout = ({ children }) => {
               <li>
                 <NavLink href='/contact'>Contact</NavLink>
               </li>
-              <li>
-                <NavLink href='/join'>Join</NavLink>
-              </li>
             </ul>
           </nav>
         </div>
-        <div className='grow ml-12 p-6 bg-gray-50'>{children}</div>
+        <div className='grow ml-12 p-6'>{children}</div>
       </div>
     </section>
   );
